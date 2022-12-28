@@ -1,0 +1,30 @@
+body {
+	background-image: url(fon1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	-moz-background-size: 100%;
+    -webkit-background-size: 100%;
+    
+}
+body p{
+	width: 400px;
+	border: 3px solid black;
+	padding: 3%;
+	font-family:Monotype Corsiva;
+	font-size: 24px;
+	background-color: yellow;
+	margin-left: 30vw;
+}
+
+.header{
+	font-family:"Monotype Corsiva";
+	font-size: 24px;
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
+.leftimg{
+	float:left;
+	margin-right: 10vw
+}

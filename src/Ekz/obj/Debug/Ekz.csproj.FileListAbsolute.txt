@@ -1,0 +1,52 @@
+C:\Users\susal\source\repos\Ekz\Ekz\bin\Debug\Ekz.exe.config
+C:\Users\susal\source\repos\Ekz\Ekz\bin\Debug\Ekz.exe
+C:\Users\susal\source\repos\Ekz\Ekz\bin\Debug\Ekz.pdb
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.csproj.AssemblyReference.cache
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.Form1.resources
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.Properties.Resources.resources
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.csproj.GenerateResource.cache
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.exe
+C:\Users\susal\source\repos\Ekz\Ekz\obj\Debug\Ekz.pdb
+C:\Users\susal\Desktop\src\Ekz\bin\Debug\Ekz.exe.config
+C:\Users\susal\Desktop\src\Ekz\bin\Debug\Ekz.exe
+C:\Users\susal\Desktop\src\Ekz\bin\Debug\Ekz.pdb
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.csproj.AssemblyReference.cache
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.Form1.resources
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.Properties.Resources.resources
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.csproj.GenerateResource.cache
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.exe
+C:\Users\susal\Desktop\src\Ekz\obj\Debug\Ekz.pdb
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.exe.config
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.exe
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.pdb
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.AssemblyReference.cache
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.SuggestedBindingRedirects.cache
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.Form1.resources
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.Properties.Resources.resources
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.GenerateResource.cache
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.exe
+C:\Users\susal\OneDrive\Рабочий стол\Учёба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.pdb
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.exe.config
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.exe
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\bin\Debug\Ekz.pdb
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.AssemblyReference.cache
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.SuggestedBindingRedirects.cache
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.Form1.resources
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.Properties.Resources.resources
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.GenerateResource.cache
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.exe
+C:\Users\susal\Desktop\Учеба\5 семестр\Экзамен практика\src\Ekz\obj\Debug\Ekz.pdb
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\bin\Debug\Ekz.exe.config
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\bin\Debug\Ekz.exe
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\bin\Debug\Ekz.pdb
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.csprojAssemblyReference.cache
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.Form1.resources
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.Properties.Resources.resources
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.csproj.GenerateResource.cache
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.csproj.CoreCompileInputs.cache
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.exe
+D:\Users\stu-pksp120\Desktop\Examen\src\Ekz\obj\Debug\Ekz.pdb
